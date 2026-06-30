@@ -1,4 +1,4 @@
-# Prodigy_WD_4
+# Prodigy_WD_5
 # 🌦 Weather App
 
 A simple and responsive **Weather Application** built using **HTML, CSS, and JavaScript**. The app fetches real-time weather data from the **OpenWeatherMap API** based on a user-entered city and displays the current weather conditions.
